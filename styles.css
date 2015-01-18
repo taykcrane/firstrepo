@@ -1,0 +1,21 @@
+html {
+	width: 100%;
+	height: 100%;
+
+}
+
+body {
+	background-image: url('nyc.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+.wrapper {
+	background-color: grey;
+	width: 100%;
+	height: 450px;
+}
